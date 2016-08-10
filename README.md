@@ -5,6 +5,6 @@ Apache Storm based application that streams the weather information from many so
 
 
 ## Technologies used
-Apache Storm
-Yahoo REST API
-OpenWeatherMap REST API
+Apache Storm  
+Yahoo REST API  
+OpenWeatherMap REST API  
