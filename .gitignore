@@ -1,4 +1,4 @@
 #ignore intellij files
-./idea
+.idea/
 #ignore target
-./target
+target/
